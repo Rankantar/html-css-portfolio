@@ -177,6 +177,12 @@ section h2,
 
 }
 
+#projects,
+#about,
+#experience {
+    padding-top: 20px;
+}
+
 .experience-contents,
 .projects-contents {
     display: flex;
